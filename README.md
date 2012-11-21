@@ -45,6 +45,11 @@ Etc...
 
 
 
+Examples
+--------
+
+    ruby bin/simple-article-spinner.rb A B C
+
 
 
 Copyright 2012, Chris Stansbury
